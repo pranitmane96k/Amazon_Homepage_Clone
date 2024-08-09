@@ -34,7 +34,7 @@ Contributions are welcome! If you would like to improve this project, please for
 
 ## Contact
 
-For any inquiries or feedback, feel free to reach out via [email](https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com/mail&service=mail&ec=GBRAFw) or connect with me on [LinkedIn](https://www.linkedin.com/in/pranit-mane-62641824a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bvw72wNJXTLGucicpTc5QAQ%3D%3D).
+For any inquiries or feedback, feel free to reach out via [email](pranitmane91@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/pranit-mane-62641824a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bvw72wNJXTLGucicpTc5QAQ%3D%3D).
 
 ---
 
