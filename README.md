@@ -23,21 +23,6 @@ This project is a clone of the Amazon home page, built using HTML and CSS. The g
 
 To view this project locally, you need a web browser. No special tools or software are required.
 
-### Installation
-
-1. *Clone the repository:*
-   bash
-   git clone https://github.com/your-username/amazon-homepage-clone.git
-   
-2. *Navigate to the project directory:*
-   bash
-   cd amazon-homepage-clone
-   
-3. **Open the index.html file in your browser:**
-   bash
-   open index.html
-   
-
 ## Project Structure
 
 - index.html: The main HTML file containing the structure of the Amazon home page.
